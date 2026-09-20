@@ -17,7 +17,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '36985342'))
 API_HASH = environ.get('API_HASH', 'b8c34a2a355d7040af42a0c7f1d23289')
-BOT_TOKEN = environ.get('BOT_TOKEN', '8706884060:AAGSWihoihaAcGre8wDesuI02OM1A245ZDE'')
+BOT_TOKEN = environ.get('BOT_TOKEN', '8605581784:AAFoPgVYaGqtJdk4j2arZ6ZgDQRzEYAl-Bs')
 
 # Keep-Alive URL
 KEEP_ALIVE_URL = environ.get("KEEP_ALIVE_URL", "https://burning-brittney-leech2-3bc21fb5.koyeb.app/")  # <-- Add this line
